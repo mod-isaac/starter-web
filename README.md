@@ -11,4 +11,4 @@ Trining for reprisitory versions on Git
 ### Now
 Training
 ### Add more and more notes
-Nothing
+Revert Staging test
