@@ -10,3 +10,5 @@ Sample website with plenty of files for demos
 Trining for reprisitory versions on Git
 ### Now
 Training
+### Add more and more notes
+Nothing
