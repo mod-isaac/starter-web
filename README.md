@@ -1,8 +1,9 @@
 # Starter Web Repo
-
 This repository is for showing how Git and GitHub work
 # Deploying
 Hey I'm training now
+## How To Contribute
+Please fork this represitory and then issue Pull Requests for review.
 ## Purpose
 Ediying againnnn
 Sample website with plenty of files for demos 15 Alf
