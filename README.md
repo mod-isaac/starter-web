@@ -12,3 +12,7 @@ Trining for reprisitory versions on Git
 Training22
 ### Add more and more notes
 Revert Staging test 23
+### Copyright
+Git.taringing 2018
+### new Cpyright message
+YUP
