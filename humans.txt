@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+  Mahmoud Alfayoumi mah.fay.g@gmail.com
 
 # THANKS
 
