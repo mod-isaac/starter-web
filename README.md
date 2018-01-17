@@ -1,7 +1,7 @@
 # Starter Web Repo
 This repository is for showing how Git and GitHub work
 # Deploying
-Hey I'm training now
+Hey I'm training now, Adding a line for rebasing example
 ## How To Contribute
 Please fork this represitory and then issue Pull Requests for review.
 ## Purpose
