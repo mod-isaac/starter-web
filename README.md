@@ -16,4 +16,4 @@ Revert Staging test 23
 ### Copyright
 Git.taringing 2018
 ### new Cpyright message
-YUP
+Al right reserved
